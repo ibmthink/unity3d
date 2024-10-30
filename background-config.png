@@ -1,0 +1,11 @@
+{
+  "Log": {
+    "Level": "info"
+  },
+  "Api": {
+    "Baseurl": [
+      "https://clientapi.bujiasu.com/myapi"
+    ],
+    "Balance": "round"
+  }
+}
